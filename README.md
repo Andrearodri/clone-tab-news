@@ -1,112 +1,51 @@
 # clone-tab-news
 
-> Clone do TabNews desenvolvido durante estudos de desenvolvimento web full stack, com foco em JavaScript, Next.js, boas praticas de versionamento, estruturacao de projeto e deploy.
+> Projeto de estudo iniciado no [curso.dev](https://curso.dev) para praticar desenvolvimento web Full Stack com JavaScript e Next.js.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow?style=flat)
+![Status](https://img.shields.io/badge/Status-Incompleto-orange?style=flat)
+
+> **Aviso:** Este repositório está incompleto. Não possui as funcionalidades centrais do TabNews implementadas. Mantido como histórico de aprendizado.
 
 ---
 
 ## Sobre o Projeto
 
-Este projeto e um clone funcional do [TabNews](https://www.tabnews.com.br), plataforma de conteudo para pessoas da area de tecnologia. Foi desenvolvido como projeto de estudo durante o curso [curso.dev](https://curso.dev), com objetivo de praticar desenvolvimento web full stack de forma aplicada e com boas praticas profissionais.
+Este é um projeto de estudo iniciado no [curso.dev](https://curso.dev), com foco em praticar desenvolvimento web Full Stack de forma aplicada e com boas práticas profissionais.
+
+**Não é um clone funcional do TabNews.** O repositório contém apenas a estrutura inicial e está incompleto.
 
 ---
 
-## Objetivo
+## Status Atual
+
+- Estrutura básica do projeto Next.js criada
+- Deploy desativado
+- Funcionalidades do TabNews (listagem, posts, comentários, autenticação) não implementadas
+- Projeto pausado
+
+---
+
+## Objetivo de Aprendizado
 
 Praticar e solidificar conhecimentos em:
 
-- Estruturacao de projetos Next.js
-- Desenvolvimento com JavaScript moderno
-- Boas praticas de versionamento com Git e GitHub
-- Deploy continuo com Vercel
-- Organizacao de codigo e fluxo de trabalho profissional
+- Estruturação de projetos Next.js
+- JavaScript no contexto Full Stack
+- Versionamento com Git e GitHub
+- Boas práticas de desenvolvimento
 
 ---
 
-## Tecnologias Utilizadas
+## Atribuição
 
-| Tecnologia | Uso |
-|---|---|
-| JavaScript | Linguagem principal |
-| Next.js | Framework React para frontend e backend |
-| Node.js | Runtime e dependencias |
-| Vercel | Deploy e hospedagem |
-| Git / GitHub | Versionamento |
+Projeto iniciado seguindo a metodologia do [curso.dev](https://curso.dev) de Filipe Deschamps.
 
 ---
 
-## Funcionalidades
+## Autor
 
-- [x] Estrutura inicial do projeto com Next.js
-- [x] Configuracao de ambiente (.nvmrc, .editorconfig)
-- [x] Deploy automatico na Vercel
-- [ ] Listagem de posts
-- [ ] Sistema de autenticacao
-- [ ] Criacao e edicao de conteudo
-
----
-
-## Deploy
-
-O projeto esta disponivel online:
-
-**[https://clone-tab-news-blond-omega.vercel.app](https://clone-tab-news-blond-omega.vercel.app)**
-
----
-
-## Como Rodar Localmente
-
-```bash
-# Clone o repositorio
-git clone https://github.com/Andrearodri/clone-tab-news.git
-
-# Entre na pasta do projeto
-cd clone-tab-news
-
-# Instale as dependencias
-npm install
-
-# Inicie o servidor de desenvolvimento
-npm run dev
-```
-
-Acesse em: `http://localhost:3000`
-
----
-
-## Aprendizados
-
-- Configuracao e estruturacao de projetos Next.js do zero
-- Fluxo de trabalho com Git: commits semanticos, branches e historico limpo
-- Deploy continuo integrado ao GitHub via Vercel
-- Importancia de arquivos de configuracao de ambiente (`.nvmrc`, `.editorconfig`)
-
----
-
-## Status do Projeto
-
-**Em desenvolvimento** — projeto de estudo em andamento, com novas funcionalidades sendo adicionadas progressivamente.
-
----
-
-## Proximos Passos
-
-- [ ] Implementar banco de dados
-- [ ] Adicionar sistema de autenticacao de usuarios
-- [ ] Criar pagina de listagem de posts
-- [ ] Adicionar testes automatizados
-- [ ] Melhorar estilizacao e responsividade
-
----
-
-## Contato
-
-Feito por **Andre Rodrigues** — Desenvolvedor Full Stack Junior
-
-- GitHub: [@Andrearodri](https://github.com/Andrearodri)
-- LinkedIn: em breve
-- Portfolio: em breve
+**André Rodrigues**
+- GitHub: [github.com/Andrearodri](https://github.com/Andrearodri)
+- LinkedIn: [linkedin.com/in/andreaparecidorodrigues-dev](https://www.linkedin.com/in/andreaparecidorodrigues-dev/)
